@@ -1,0 +1,34 @@
+{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: purple;
+    margin-left: 0.2in;
+}
+h2{
+    color: purple;
+    margin-left: 0.2in;
+}
+img{
+    border-radius: 50%;
+    border: 20px solid;
+    z-index: -1;
+}
+html {
+    background: url(BG.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+p{
+    color: blanchedalmond;
+}
+ul{
+    color: bisque;
+    
+}
+h1{
+    color: black;
+}
+link{
+    color: yellowgreen;
+}
